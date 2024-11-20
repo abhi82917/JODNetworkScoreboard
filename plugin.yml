@@ -1,0 +1,6 @@
+name: JODNetworkScoreboard
+version: 1.0
+main: com.jodnetwork.scoreboard.JODNetworkScoreboard
+api-version: 1.21
+description: An animated scoreboard plugin for JOD Network.
+depend: [Vault]
